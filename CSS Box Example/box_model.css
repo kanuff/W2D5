@@ -1,0 +1,31 @@
+div {
+  height: fit-content;
+  min-height: 400px;
+  width: fit-content;
+  min-width: 400px;
+  padding: 50px;
+  border: 5px solid black;
+  margin: 10px;
+
+}
+
+#first-div {
+  background-color: #39cccc;
+  /* display: inline-flex; */
+
+}
+
+#second-div {
+  background-color: #ff4136;
+  box-sizing: border-box;
+
+}
+
+p {
+  background-color: #7fdbff;
+}
+
+#third-div {
+  min-height: 10px;
+  height: fit-content;
+}
